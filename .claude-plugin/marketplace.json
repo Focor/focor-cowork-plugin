@@ -1,7 +1,7 @@
 {
   "name": "focor-marketplace",
   "owner": {
-    "name": "Focor AI"
+    "name": "Focor"
   },
   "metadata": {
     "description": "Cross-tool intelligence plugins for Claude by Focor AI",
@@ -12,7 +12,7 @@
     {
       "name": "focor",
       "source": "./plugins/focor",
-      "description": "Cross-tool intelligence layer. Morning briefings, context synthesis, and more."
+      "description": "Cross-tool intelligence layer. Connects Slack, Notion, Linear, Calendar & more. Gives Claude full context across your workflow."
     }
   ]
 }
