@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "focor": {
+      "type": "http",
+      "url": "https://mcp.focor.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "focor",
+  "version": "0.1.0",
+  "description": "Cross-tool intelligence layer. Connects Slack, Notion, Linear, Calendar, Email and more. Gives Claude full context across your workflow.",
+  "author": {
+    "name": "Focor AI"
+  },
+  "homepage": "https://focor.com",
+  "keywords": ["intelligence", "context", "cross-tool", "knowledge-graph", "productivity"]
+}
