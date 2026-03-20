@@ -12,7 +12,7 @@
     {
       "name": "focor",
       "source": "./plugins/focor",
-      "description": "Cross-tool intelligence layer. Connects Slack, Notion, Linear, Calendar & more. Gives Claude full context across your workflow."
+      "description": "Cross-tool intelligence layer. Morning briefings, meeting prep, open commitments, and the context that matters."
     }
   ]
 }
